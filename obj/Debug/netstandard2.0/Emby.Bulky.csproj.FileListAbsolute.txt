@@ -1,0 +1,48 @@
+C:\Users\davey\Downloads\latest_code_8\bin\Debug\netstandard2.0\Emby.Bulky.deps.json
+C:\Users\davey\Downloads\latest_code_8\bin\Debug\netstandard2.0\Emby.Bulky.dll
+C:\Users\davey\Downloads\latest_code_8\bin\Debug\netstandard2.0\Emby.Bulky.pdb
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.csproj.AssemblyReference.cache
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.Properties.Resources.resources
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.csproj.GenerateResource.cache
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.AssemblyInfoInputs.cache
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.AssemblyInfo.cs
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.csproj.CoreCompileInputs.cache
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.dll
+C:\Users\davey\Downloads\latest_code_8\obj\Debug\netstandard2.0\Emby.Bulky.pdb
+C:\Emby.Bulky\bin\Debug\netstandard2.0\Emby.Bulky.deps.json
+C:\Emby.Bulky\bin\Debug\netstandard2.0\Emby.Bulky.dll
+C:\Emby.Bulky\bin\Debug\netstandard2.0\Emby.Bulky.pdb
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.csproj.AssemblyReference.cache
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.Properties.Resources.resources
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.csproj.GenerateResource.cache
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.AssemblyInfoInputs.cache
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.AssemblyInfo.cs
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.csproj.CoreCompileInputs.cache
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.dll
+C:\Emby.Bulky\obj\Debug\netstandard2.0\Emby.Bulky.pdb
+C:\Users\davey\Downloads\base_code_revised\bin\Debug\netstandard2.0\Emby.Bulky.deps.json
+C:\Users\davey\Downloads\base_code_revised\bin\Debug\netstandard2.0\Emby.Bulky.dll
+C:\Users\davey\Downloads\base_code_revised\bin\Debug\netstandard2.0\Emby.Bulky.pdb
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.csproj.AssemblyReference.cache
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.Properties.Resources.resources
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.csproj.GenerateResource.cache
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.AssemblyInfoInputs.cache
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.AssemblyInfo.cs
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.csproj.CoreCompileInputs.cache
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.dll
+C:\Users\davey\Downloads\base_code_revised\obj\Debug\netstandard2.0\Emby.Bulky.pdb
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\bin\Debug\netstandard2.0\Emby.Bulky.deps.json
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\bin\Debug\netstandard2.0\Emby.Bulky.dll
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\bin\Debug\netstandard2.0\Emby.Bulky.pdb
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.csproj.AssemblyReference.cache
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.Properties.Resources.resources
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.csproj.GenerateResource.cache
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.AssemblyInfoInputs.cache
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.AssemblyInfo.cs
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.csproj.CoreCompileInputs.cache
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.dll
+C:\Users\davey\Downloads\Bulky 0.0.1.0 rev2\obj\Debug\netstandard2.0\Emby.Bulky.pdb

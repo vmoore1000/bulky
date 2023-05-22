@@ -1,0 +1,48 @@
+D:\MyPlugin\bin\Debug\netstandard2.0\MyPlugin.deps.json
+D:\MyPlugin\bin\Debug\netstandard2.0\MyPlugin.dll
+D:\MyPlugin\bin\Debug\netstandard2.0\MyPlugin.pdb
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.AssemblyReference.cache
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.Properties.Resources.resources
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.GenerateResource.cache
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.AssemblyInfoInputs.cache
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.AssemblyInfo.cs
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.CoreCompileInputs.cache
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.dll
+D:\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.pdb
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\bin\Debug\netstandard2.0\MyPlugin.deps.json
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\bin\Debug\netstandard2.0\MyPlugin.dll
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\bin\Debug\netstandard2.0\MyPlugin.pdb
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.AssemblyReference.cache
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.Properties.Resources.resources
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.GenerateResource.cache
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.AssemblyInfoInputs.cache
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.AssemblyInfo.cs
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.CoreCompileInputs.cache
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.dll
+C:\Users\davey\Downloads\MyPlugin (1)\MyPlugin\obj\Debug\netstandard2.0\MyPlugin.pdb
+D:\CheesePlugin\bin\Debug\netstandard2.0\MyPlugin.deps.json
+D:\CheesePlugin\bin\Debug\netstandard2.0\MyPlugin.dll
+D:\CheesePlugin\bin\Debug\netstandard2.0\MyPlugin.pdb
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.AssemblyReference.cache
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.Properties.Resources.resources
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.GenerateResource.cache
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.AssemblyInfoInputs.cache
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.AssemblyInfo.cs
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.CoreCompileInputs.cache
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.dll
+D:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.pdb
+C:\CheesePlugin\bin\Debug\netstandard2.0\MyPlugin.deps.json
+C:\CheesePlugin\bin\Debug\netstandard2.0\MyPlugin.dll
+C:\CheesePlugin\bin\Debug\netstandard2.0\MyPlugin.pdb
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.AssemblyReference.cache
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.Properties.Resources.resources
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.GenerateResource.cache
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.AssemblyInfoInputs.cache
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.AssemblyInfo.cs
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.csproj.CoreCompileInputs.cache
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.dll
+C:\CheesePlugin\obj\Debug\netstandard2.0\MyPlugin.pdb

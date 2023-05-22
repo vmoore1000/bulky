@@ -1,0 +1,12 @@
+D:\MyPlugin\bin\Release\netstandard2.0\MyPlugin.deps.json
+D:\MyPlugin\bin\Release\netstandard2.0\MyPlugin.dll
+D:\MyPlugin\bin\Release\netstandard2.0\MyPlugin.pdb
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.csproj.AssemblyReference.cache
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.Properties.Resources.resources
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.csproj.GenerateResource.cache
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.AssemblyInfoInputs.cache
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.AssemblyInfo.cs
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.csproj.CoreCompileInputs.cache
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.dll
+D:\MyPlugin\obj\Release\netstandard2.0\MyPlugin.pdb
